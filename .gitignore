@@ -1,0 +1,7 @@
+/test/
+
+# Editor swap files
+*.kate-swp
+*.swp
+*.swo
+.*~v
